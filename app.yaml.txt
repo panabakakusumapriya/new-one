@@ -1,5 +1,5 @@
 runtime: python27
-api_version: 1
+api_version: 2
 threadsafe: yes
 
 handlers:
@@ -8,4 +8,4 @@ handlers:
 
 libraries:
 - name: webapp2
-  version: "2.5.2"
+  version: "3.5.3"
